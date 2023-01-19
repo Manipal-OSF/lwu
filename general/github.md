@@ -24,7 +24,7 @@ You are expected to complete all of the following
 - Create an issue with the title - `GitHub LWU` and random description.
 - Create a fork of the repository.
 - Create a new branch in your fork with the branch name being your GitHub username.
-- Add a random single file to the local repository and commit and push.
+- Add a random single file to the `Jan 2023` folder in your local repository and commit and push.
 - Open a pull request with title - `GitHub LWU complete` and a random description.
 - After the PR is accepted, delete the branch and if you want, the fork too.
 - Congratulations, this LWU program is now complete. Head on to the [Repositories tab](https://github.com/orgs/Manipal-OSF/repositories) to check on going projects.
