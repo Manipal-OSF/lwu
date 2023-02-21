@@ -28,13 +28,18 @@ Or
 
 ### End assessment
 
-- Head to [Assessment repository](https://github.com/Manipal-OSF/GitHub-LWU)
-- Create an issue with the title - `GitHub LWU` and random description.
-- Create a fork of the repository.
-- Create a new branch in your fork with the branch name being your GitHub username.
-- Add a random single file to the `Jan 2023` folder in your local repository and commit and push.
-- Open a pull request with title - `GitHub LWU complete` and a random description.
-- After the PR is accepted, delete the branch and if you want, the fork too.
+- Create a fork of this repository.
+- Clone the repo locally
+- Switch to the website-lwu branch (using 'git checkout', google it if you don't know how to do this)
+- Create a new Folder with the format <Firstname>-<Lastname>
+
+#### Task 1
+- Do the following assignments: https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form
+- Brownie points for those who've used 'Tailwindcss'
+- Add an image of your form in the folder as well.
+  Take this task seriously, we'll be selecting the best submission to be used in our official OSF website as the member registration form!
+#### Task 2
+- 
 - Congratulations, this LWU program is now complete. Head on to the [Repositories tab](https://github.com/orgs/Manipal-OSF/repositories) to check on going projects.
 
 ---
