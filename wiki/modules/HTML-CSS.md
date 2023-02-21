@@ -31,7 +31,9 @@ You are expected to complete the following
 
 ### End assessment
 
-TODO
+- Do the given assignment - [Odin Project assignment](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form)
+- Add an image of your choice in the folder as well.
+- Upload the results on [CodePen](https://codepen.io/) and send the links on the Discord LWU forum post
 
 ---
 
