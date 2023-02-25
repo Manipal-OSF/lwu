@@ -7,10 +7,10 @@ As the project consists of the frontend, backend and a bit of devops, you can ch
 
 - Frontend
   - HTML-CSS LWU
+  - JS-TS LWU
   - React LWU
-  - Next.JS LWU
 - Backend
-  - Nothing
+  - JS-TS LWU
 - DevOps
   - Nothing
 
@@ -31,7 +31,3 @@ As the project consists of the frontend, backend and a bit of devops, you can ch
 - Work on any issue present on the repository
 
 ---
-
-### Documentation ( For Reference )
-
-### Extra Reading

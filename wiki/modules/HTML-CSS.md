@@ -26,14 +26,16 @@ You are expected to complete the following
     Or
 
   - MDN web tutorials for [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+
     Or
+
   - [Tutorials from Google Chrome DevRel a.k.a web.dev](https://web.dev/learn/)
 
 ### End assessment
 
 - Do the given assignment - [Odin Project assignment](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form)
 - Add an image of your choice in the folder as well.
-- Upload the results on [CodePen](https://codepen.io/) and send the links on the Discord LWU forum post
+- Upload the results on [CodePen](https://codepen.io/) or any other such site and send the links on the Discord LWU forum post
 
 ---
 
