@@ -29,5 +29,6 @@ As the project consists of the frontend, backend and a bit of devops, you can ch
 ### End assessment
 
 - Work on any issue present on the repository
+- Please read the WEBSITE_CONFIG.md document and CMS_CONFIG.md (for backend) to setup the website locally
 
 ---
